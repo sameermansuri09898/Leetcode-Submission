@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
