@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## String
+|  |
+| ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Simulation
+|  |
+| ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
