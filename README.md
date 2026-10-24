@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
