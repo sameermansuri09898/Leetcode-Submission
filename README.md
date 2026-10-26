@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
