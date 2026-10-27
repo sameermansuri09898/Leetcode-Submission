@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3731-find-missing-elements) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Prefix Sum
+|  |
+| ------- |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 <!---LeetCode Topics End-->
