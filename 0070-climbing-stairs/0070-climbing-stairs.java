@@ -3,6 +3,7 @@ class Solution {
         if (n <= 2) return n;
 
         // count initial steps
+        // same as fibonacci one (a) two(b) curr(c)
         int one = 1;
         int two = 2;
 
