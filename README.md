@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
