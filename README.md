@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
