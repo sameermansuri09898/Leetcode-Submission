@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0013-roman-to-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
