@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
