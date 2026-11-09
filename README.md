@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
