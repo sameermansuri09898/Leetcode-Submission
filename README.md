@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2465-number-of-distinct-averages](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2465-number-of-distinct-averages) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 ## Stack
 |  |
@@ -172,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
