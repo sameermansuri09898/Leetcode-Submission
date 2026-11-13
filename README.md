@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
