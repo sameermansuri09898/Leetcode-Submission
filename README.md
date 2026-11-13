@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2652-sum-multiples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
