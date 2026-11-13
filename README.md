@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2460-apply-operations-to-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2465-number-of-distinct-averages) |
