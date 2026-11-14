@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
+| [1991-find-the-middle-index-in-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2465-number-of-distinct-averages) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1991-find-the-middle-index-in-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Recursion
 |  |
