@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2465-number-of-distinct-averages) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2465-number-of-distinct-averages](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2465-number-of-distinct-averages) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 ## Stack
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
