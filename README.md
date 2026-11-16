@@ -100,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
 |  |
