@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2527-find-xor-beauty-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2527-find-xor-beauty-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0415-add-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0415-add-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2460-apply-operations-to-an-array) |
