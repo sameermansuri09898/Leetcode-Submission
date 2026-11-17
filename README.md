@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0415-add-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 ## Stack
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
