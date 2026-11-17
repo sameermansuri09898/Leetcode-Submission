@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0989-add-to-array-form-of-integer) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0989-add-to-array-form-of-integer) |
 | [2527-find-xor-beauty-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2652-sum-multiples) |
