@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0896-monotonic-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
