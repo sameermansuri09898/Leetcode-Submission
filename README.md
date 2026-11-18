@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0189-rotate-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
@@ -258,6 +260,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
