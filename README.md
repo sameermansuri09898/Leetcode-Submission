@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0594-longest-harmonious-subsequence) |
+| [0682-baseball-game](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0682-baseball-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2460-apply-operations-to-an-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0682-baseball-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
