@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0415-add-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
