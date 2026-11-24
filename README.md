@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0989-add-to-array-form-of-integer) |
 | [1748-sum-of-unique-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0989-add-to-array-form-of-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2652-sum-multiples) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0232-implement-queue-using-stacks) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
