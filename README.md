@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameermansuri09898/Leetcode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
